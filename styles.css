@@ -1,0 +1,14 @@
+ul {
+  list-style: none;
+  display: flex;
+}
+
+li {
+  margin-right: 30px;
+}
+
+.theme-buttons {
+   position: absolute;
+   top: 30px;
+   right: 10px;
+}
